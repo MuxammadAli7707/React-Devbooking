@@ -22,6 +22,7 @@ function Forum() {
           <input className='forum__input' type="email" placeholder='Email' required />
           <input className='forum__input' type="password" placeholder='Password' required />
           <button className='forum__btn'>Next step</button>
+          <h2>hello</h2>
         </form>  
       </div>
     </div>
